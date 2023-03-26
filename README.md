@@ -52,7 +52,9 @@ create Player Machine
 
 craete Player Component
 
-1:17
+set init coords
+
+2:24
 
 
 
