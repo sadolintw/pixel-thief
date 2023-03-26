@@ -54,7 +54,7 @@ craete Player Component
 
 set init coords
 
-2:24
+2:40
 
 
 
