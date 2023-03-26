@@ -13,7 +13,7 @@ const Layout = styled.section`
   left: 50%;
   transform: translate(-50%, -50%);
 
-  border: 1px solid ${props => props.theme.color.white};
+  // border: 1px solid ${props => props.theme.color.white};
 `
 
 interface PropsType {
@@ -29,7 +29,7 @@ const GridSquare = styled.div<PropsType>`
   top: ${props => props.y * GRID_SQUARE_SIZE}px;
   left: ${props => props.x * GRID_SQUARE_SIZE}px;
 
-  border: 1px solid ${props => props.theme.color.white};
+  // border: 1px solid ${props => props.theme.color.white};
 `
 
 type GridProps = {

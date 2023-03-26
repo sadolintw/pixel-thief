@@ -42,7 +42,19 @@ create Health component
 
 create Grid component
 
+create Screens
+
+create Game Machine
+
+create Game Component
+
+create Player Machine
+
+craete Player Component
+
 1:17
+
+
 
 Ref
 https://www.youtube.com/watch?v=QJZPFv-tUwY&ab_channel=BradWoods
