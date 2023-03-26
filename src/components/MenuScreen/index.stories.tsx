@@ -6,6 +6,6 @@ export default {
 } as Meta
 
 export const Index = () => <MenuScreen>
-  <div></div>
-  <div></div>
+  <div>test</div>
+  <div>test</div>
 </MenuScreen>
